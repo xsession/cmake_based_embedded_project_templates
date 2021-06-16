@@ -1,0 +1,25 @@
+[submodule "src/submodules/Arduino"]
+	path = src/submodules/Arduino
+	url = https://github.com/esp8266/Arduino.git
+
+[submodule "src/submodules/ESP8266_RTOS_SDK"]
+	path = src/submodules/ESP8266_RTOS_SDK
+	url = https://github.com/espressif/ESP8266_RTOS_SDK.git
+[submodule "src/submodules/ESP8266_NONOS_SDK"]
+	path = src/submodules/ESP8266_NONOS_SDK
+	url = https://github.com/espressif/ESP8266_NONOS_SDK.git
+[submodule "src/libs/Adafruit_NeoPixel"]
+	path = src/libs/Adafruit_NeoPixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel.git
+[submodule "src/libs/Adafruit_Sensor"]
+	path = src/libs/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "src/libs/DHT-sensor-library"]
+	path = src/libs/DHT-sensor-library
+	url = https://github.com/adafruit/DHT-sensor-library.git
+[submodule "src/libs/NTPClient"]
+	path = src/libs/NTPClient
+	url = https://github.com/arduino-libraries/NTPClient.git
+[submodule "src/libs/Time"]
+	path = src/libs/Time
+	url = https://github.com/PaulStoffregen/Time.git

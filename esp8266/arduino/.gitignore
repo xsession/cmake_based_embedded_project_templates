@@ -1,0 +1,70 @@
+# Editor files
+*.swp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Generated makefiles
+**/Debug/**/*.mk
+**/Release/**/*.mk
+**/Debug/**/makefile
+**/Release/**/makefile
+**/build/**
+**/build-*/**
+**/test-build/**
+
+# Object files
+*.o
+*.obj
+*.opt
+*.slo
+*.lo
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Libraries
+**/Debug/**/*.lib
+**/Release/**/*.lib
+*.a
+*.la
+*.lo
+
+# Submodules
+
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+
+# Executables
+*.exe
+*.out
+*.elf
+*.hex
+*.a00
+*.app
+
+# Prerequisites
+*.d
+
+# Doxygen output
+**/doc/html
+
+# Unnecessary project files
+**/.settings/
+*.launch
